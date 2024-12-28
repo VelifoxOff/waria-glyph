@@ -1,7 +1,7 @@
 # All Waria Glyph
 ---
 > [!WARNING]
-> No images for now
+> It's not meant to harm Waria, just to provide help and a fun tool.
 ---
 
 | Image                                                                 | Nom            | Code Tab | Code Hex | Symbole |
