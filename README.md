@@ -1,8 +1,8 @@
 # All Waria Glyph
 ---
 > [!WARNING]
-> <h4><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1ec-1f1e7.svg" height="10">  It's not meant to harm Waria, just to provide help and a fun tool.</h4>
-> <h4><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1eb-1f1f7.svg" height="10">  Ce n'est pas destiné à nuire à Waria, mais simplement à offrir de l'aide et un outil amusant.</h4>
+> <h4><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1ec-1f1e7.svg" height="10"><h4>  It's not meant to harm Waria, just to provide help and a fun tool.</h4>
+> <h4><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1eb-1f1f7.svg" height="10"><h4>  Ce n'est pas destiné à nuire à Waria, mais simplement à offrir de l'aide et un outil amusant.</h4>
 ---
 
 | Image                                                                 | Nom            | Code Tab | Code Hex | Symbole |
