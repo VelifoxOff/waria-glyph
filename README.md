@@ -4,52 +4,52 @@
 > No images for now
 ---
 
-| Image       | Nom            | Code Tab | Code Hex | Symbole |
-|-------------|----------------|----------|----------|---------|
-| 2           | Action House   | .00      | 0xE500   |       |
-| 3           | Warien         | .01      | 0xE501   |       |
-| 4           | W              | .02      | 0xE502   |       |
-| 5           | Vip            | .03      | 0xE503   |       |
-| 6           | *Admin         | .0A      | 0xE50A   |       |
-| 7           | *Mod           | .0B      | 0xE50B   |       |
-| 8           | Samu           | .0C      | 0xE50C   |       |
-| 9           | Youtube        | .0D      | 0xE50D   |       |
-| 10          | Devloppeur     | .0E      | 0xE50E   |       |
-| 11          | Chasseur       | .0F      | 0xE50F   |       |
-| 12          | Mineur         | .10      | 0xE510   |       |
-| 13          | Fondateur      | .11      | 0xE511   |       |
-| 14          | Policier       | .12      | 0xE512   |       |
-| 15          | Prophet        | .13      | 0xE513   |       |
-| 16          | Pharoah        | .14      | 0xE514   |       |
-| 17          | Seesh          | .15      | 0xE515   |       |
-| 18          | Sussy          | .16      | 0xE516   |       |
-| 19          | Civil          | .17      | 0xE517   |       |
-| 20          | Fermier        | .18      | 0xE518   |       |
-| 21          | Admin          | .19      | 0xE519   |       |
-| 22          | E-Girl         | .1A      | 0xE51A   |       |
-| 23          | Rich           | .1B      | 0xE51B   |       |
-| 24          | Hot            | .1C      | 0xE51C   |       |
-| 25          | <Hacker>       | .1D      | 0xE51D   |       |
-| 26          | *Sr.Mod        | .1E      | 0xE51E   |       |
-| 27          | Gucci          | .1F      | 0xE51F   |       |
-| 28          | L              | .20      | 0xE520   |       |
-| 29          | E-Boy          | .21      | 0xE521   |       |
-| 30          | « Couronne »   | .22      | 0xE522   |       |
-| 31          | Thicc          | .23      | 0xE523   |       |
-| 32          | Pig            | .24      | 0xE524   |       |
-| 33          | Twitch         | .25      | 0xE525   |       |
-| 34          | Mafieu         | .26      | 0xE526   |       |
-| 35          | Guide          | .27      | 0xE527   |       |
-| 36          | Super-Modo     | .28      | 0xE528   |       |
-| 37          | Store          | .29      | 0xE529   |       |
-| 38          | Rewards        | .2A      | 0xE52A   |       |
-| 39          | Keys           | .2B      | 0xE52B   |       |
-| 40          | Ranks          | .2C      | 0xE52C   |       |
-| 41          | Moderateurs    | .2D      | 0xE52D   |       |
-| 42          | « Clic Gauche »| .2E      | 0xE52E   |       |
-| 43          | Voter          | .2F      | 0xE52F   |       |
-| 44          | Builder        | .30      | 0xE530   |       |
-| 45          | « Maison »     | .31      | 0xE531   |       |
-| 46          | « Pioche »     | .32      | 0xE532   |       |
-| 47          | Media          | .33      | 0xE533   |       |
+| Image                                                                 | Nom            | Code Tab | Code Hex | Symbole |
+|----------------------------------------------------------------------|----------------|----------|----------|---------|
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FO1c7lE2WYyeIr6k4vtw1rhJuDFjTI2ZhFWBlG2czLLBucQ54jgPFEXafUMgu-65Wa8L7_EiyLLE6urclE8Wk9eT4BJYDe2er2rcdBtkBpWiGgS-bdEGkc2ugEgK1g8PDlUrHVbg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Action House   | .00      | 0xE500   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17E5QU-Paas4jWOwXhYYcIYpc3un5mzVOC1h4HOHe7G8QaD_4VDF0i0tdO4dcyaDpgA_SZjIEa0qcoLP68mSD7gqdkh-SEVeAaHNwHm9DxN3gg0MlbId6bt8yhQKxXhZz05AJsCF=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Warien         | .01      | 0xE501   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Ejors_OLymwWP9S95-MH_2EWGQseSpArWU2lpaz5p70pQHCLbRDdSR9s3E5CD7OU8_4UjCf3XLkEONFV2EGQwmAGNJAzpXmsLqsCqyrK0IeZ3TtGamdKBDO6N6Ck6IyB8bFl_H=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | W              | .02      | 0xE502   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HML5N9Z2vxSQV1iAxjUVsLB3CkqL94K6ZZzfMp1FEMB_7hSILzxA-G4SpClAetBZhII0GdEP1R_dFD3wUyuSoIIaSJ9ygcvHHED9nUIpDXoCsiAZhXP8_5caN_Mn_5oOH1rFybig=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Vip            | .03      | 0xE503   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EhpkbyDKYbjz0rgMiXFTp7JC0xmS7p5wse4xsL6l2KHT97Lrbaz1bPvYyAx8PXWDxgDgwfM8zV3foNyWV2MpqnDGp8f2sMrTy4rUDuGxhHbQq3mc3hubZd6ajBUF12Eeq3KZCtBw=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | *Admin         | .0A      | 0xE50A   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EFlx6IByhIoI_ThS_CtSgkqrM5qt2mQzmhl3Gj7WwJCDrHPIgVnyEUqyacEZyxu9B1OX1cpZO4xUX3WULzdLhqMg8CeOzCdUTiOF6K8wjsNF26d4mvTlYZCidQpx0x7El98Gsn=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | *Mod           | .0B      | 0xE50B   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HZpFcWVtbGVtl-7rgllDe8XlBhK16Ms95ddfdPplsmZBcwJ-4qIXHhUbfLaHrfnSnwUeMukHYNNLDgGjMNh_3yO6-bzBQviiu5up_RBrk1q7EF03ife_29A6DvP-_Od56xlj5uyA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Samu           | .0C      | 0xE50C   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GkPrqfIP8yJklFVCJXSrzewGp0BoubIF3_VE8EE4HI_6tBLs3A8q6uLIQWXruFd0wtT8IUGQDqbXBz9Yxxa0oLJoQZNRdtslxpCJgbwgqYkLJEQo060smywjrVBfdqcDFZitUJ4w=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Youtube        | .0D      | 0xE50D   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HYs1pPrjZmSzkbwVjgeoXEJckgtZI2gCg4pnWaSJJ3Ge4yQC4IPtz2Nfq6Omd07MGriUkmgY8zSNMFwuPtInv3PtfKztLlEXEr0K6VDB-GGazKiC0pJGEdaQBVnxZOUnbe2D6OXQ=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Devloppeur     | .0E      | 0xE50E   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HgDMeDlVeEevE_PfiQ5PQ75B8_zBFPsISssvJCVkptkclYvkZuk_nGPQ21uWu_n6PixFq2bQayeIYW2kWi8LWlIhMK9vaOU7AZ_DKvqROj_0bnkC1O-wmePGYq13rj8-KZkDHk8Q=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Chasseur       | .0F      | 0xE50F   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GwEX3_8VrYdrXL0UQEy3DG1QR2GDZcaVTNd7hGe-HFIQbg5AWSk1PfI9h7P_MuyoF54IcXzZq49kw2JgSmv6a-qecVR3_sIv9tAfTnz3OGe5KF22c6g9N6RN9PNdRUX-XFf6lg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Mineur         | .10      | 0xE510   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Fetl76yGh5CaXp8F_Jdq9HfzN1shVuCN3gmntnUBvKZPf_BLqHf-r3qsKplLQBTSWNZA2_xf1Dga85-65vV1j4Wn2HGfYTANUbH1CKw-ch5ajBKpm8SEChK1tPZVM3gANtsJuCnQ=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Fondateur      | .11      | 0xE511   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GeislgERS25PwlsF7woJS6RNIjVQDpA_qaPb4AAuHT7_YSIQAV7DaHMKwRraw6bKqTe_sM0VvuY0HPjeUO8bqwDVWnHuRqZb_sgKEDro2fz7n4NTVKLMidRed8KiT-bbd4RZSlug=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Policier       | .12      | 0xE512   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17E6DcooQzvAOzeQ8sVlM22BJzAYl0q7_xWkRXqHP-Cl-pO3uocRdDaHyJviWJBxBcZvBAUo9CXeG2-UcLwK3cGsjRiYuF-cYCUTdRO5PYa7nWDsBsrA_lXWDzXtnWT0WBs4DEaFfA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Prophet        | .13      | 0xE513   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GN4PK8_8vqxdBMzCXSPVlW2N4MQA9H3U3JjsrTmtOtb11hjFBou3SBTsg1o8xA0QjFcjnxZaFEGwsLI0Gq0tR2K7M39oao4xwIcqqsmlgKj2HqByqmbY6sedil5DJAf0o7ow_YCg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Pharoah        | .14      | 0xE514   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GWciag97IFCeR6Q3oUl1dy78TjZCdEnsOZFA50rf0FxYJPDZf9bZew-vTJpNXQ4k7ZQsT4SCBCHfoq75Q0vI0FIVfQoo0hb7AwWoENm3bAwStUkkLc60INWRoFMrlruMmr3fh-wg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Seesh          | .15      | 0xE515   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17E3JSuxmFW_iRHdQ-awYcpCcRPnYwX5-fvqKOaOyvbqTVK5FhDagC9qWsozoVc4G-EknvXe4xaendSVaQUGCQteImOjAGcQVpPjmpQHwyBjfAueDv7qocmLUZGHDZ_u5-Lm51RQ0w=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Sussy          | .16      | 0xE516   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Gc4ufiRgtD6v2c_e58FeOpd3HbBr0EUvDvc28RkotAfi657gk9V2EHQCpmHa03fqlESD547R5oVvECFE7d0zEC1P3WrHod_1n-HqQVqD3MfPnpvL-yvG7c4citGnsImYNFMGq1Jw=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Civil          | .17      | 0xE517   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FXUZ53leONAoOCSsQH1TPDz0Anf7RxI0MEAs6KqqAhyxSoNqwO1a4N8GoGtgQxSITarsoW8pbaGgzTqZ6du6oe0lVKmKZHub48daBEr8VOzIoR75oIEg1ywu-xFt5Jf_y9cSrTvQ=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Fermier        | .18      | 0xE518   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Ge0ZmTY_mpB1FvZ40Tk5-acwc54IxWybijDyO6xVj4kpRvD-uFTsPw-AHydVjo0VDtn4es8whCtE47us8TRVUdbnRYhAES5Xb0eGDDlSQJF9_SXQHpLvGxL2eI7E4MHzPnWN10LA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Admin          | .19      | 0xE519   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GGJAut6kCoVLui7xsRWjM68y_Bw3tuKE6JFkoceD_RVbFxBCQsZhdZsCcPUr2jdrgegku_BI7DJGVol43-lc3W0lZAZStOhGzFskRIEJx-xsuR-wZYvx_OA2CPX9G0Vlv_GSR_VA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | E-Girl         | .1A      | 0xE51A   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EQnaTWvmMtRvQnvC8g0GeeE7nuPjiegsNd_u_1ZCoL7mwO_R9XNLjYc3pYaPh21AvL721pSrAU3MVC65y25u9LuVyNvpop-8Yd1Kn0EmboYQSpLfeIAXxPHtdd3pIzP8ML_NOjIQ?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Rich           | .1B      | 0xE51B   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17G8F_JSL4A_D3ol9TBxRf_OBLPOOGZEmDdwN-5N43ILx_yJurlHdZaM0PEGC1cNp7f9vPCe2RduOsTLINdm8v0xf-GraVPzSSBUkRei2cD7MqsSHekygVHCTesXBkhI-atCZ_SL=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Hot            | .1C      | 0xE51C   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17H5urOfNO1tNu32-YUWNKwizbXeiQQMrQ7Epv1sIpHizEvfihSZ-BFseYqis-gPULzsRtaFuwZDBtdUyWJDvsJ7ubkmGqaXhtZ8sG7SMzwXaWrnToVwL0_frtREaYeGVgDk1pQlNg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | <Hacker>       | .1D      | 0xE51D   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Fp444jtyQUECsLXz5d3WmkfYkpvFPBFy7PFBn_UR7J5Y283y3X23KNEdWAw11kLgEkqR7a-QQydEzooAcCIGf1SvXiMzbkBlIfwiErCl-4zwEMdhm_CzKMZtdg385GoA_LKlzaHg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | *Sr.Mod        | .1E      | 0xE51E   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GY-O9y3ofI4Gd75X4jp-JP3r8UUJjUq14Wi88gjGdRtVKDT1aQlXJ5FLAq_z_MkiJiA-Tl5Crbd7ZsSlXY1KzusBvRxtOq3DfJaWc7UxVcDu6l3sRIDL8vTpTmCylYUbGfxGA4=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Gucci          | .1F      | 0xE51F   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GjuKSE46h9LrzG8n7R8w2IAVJRFQoQ2zsiLE4pxhK_GXfxbDBrUTgajyL-d6rtZjxeObIiKvdR8mDHeL8ke48x1ZoNoXyQOpCkh_yBWt9xjYw7zk-9uM-kgNWU0lWbIdMCVRHM-Q=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | L              | .20      | 0xE520   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HZNVwbm0pCCo8-BAAoJlIm1nnuDCMEIurai9z3_chO32menPT7QMSd9DHJZQ0PEQG1xC_YC2JmACJdO4ye7gRZCmBN4-FHu6PvPTD05-iRQ4bgHr5FobgQg0S3mppR18UwPF8W=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | E-Boy          | .21      | 0xE521   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EinsQXraAkPYQlca2mAav0AA1ROJat2zuRryguVinR6mYZo46zoEwaHFa5d-3w0YjHPyzOSiuNE_BaHCLZgeLhOKG_TvVYhiV2Y8wsh1SjmtVfcBdEtspxGD5Wx5t3w8Fe72W2wg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | « Couronne »   | .22      | 0xE522   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Edj7Ri8mU1MtAD0rBibZkcYwF01R3urJIRVhFzOvQekyA9bURZR2SP2TQSlTDh2J66cBTT37H3xUdfkM-FsbmRAAFTRRVjdT346eTrS8-BXajLnXCPLb0Vg9ZT0d7EXjkbofrg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Thicc          | .23      | 0xE523   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HADCLsgWkiGeeUC6F26EPiSYoQN4VWA_svBx5LpAaeyBE7STcE084cB1P-s0Zhse10B6R-dXqb5uInpCKK9yNsyOt8AG1cuVzox0OMRkLZp8d_-6LIGW-Tp89RXMZikQi-OsI5=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Pig            | .24      | 0xE524   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HpYQoxHs18ZbPbN7GRnMZf2vbLcJEAtOvW1oVCjQnkeLSVoO4etIGgN_t4SpPM4bIeeKJexBWGgLx0lPDBg3KxZUuq_AjD8cXPlQqBYyP2dbbO1LcAW28rg6UaWwiIaEmHXCv-3g=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Twitch         | .25      | 0xE525   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Gyh31_mV_QyduytfKTYz3aqruq043B3N_zDqtJsJHO_XlWzx345dUQx4RDTskc81dR0k2rKs2LyUwgFi0XQ79zvb4siYpBlXez0TkyXus9CVNOBII3vtC8oUjfhNSYnVV2PXs8Xw=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Mafieu         | .26      | 0xE526   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FrVsN_cqXNfsXD8IoohDKkq3eQLxNmiUsc5iwN5otgyPGSyfQjSCAN1g8Gw0BBnUYC8jispKI3XkVIa0Pv7pBGu-VNcjrQtsMbvEZVHt-DpugzsyTgmyC37mLou9CRu2pi9fLS8Q=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Guide          | .27      | 0xE527   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Hk4VwSMmn6yT93QJdNuEyDQm73eePMTVk2g0O4rFQ9aGIHmlqpOQ64kcDLQr8XKwkvJ0Sx--UH1WooHEbnBAnS9orbgC8McfnvuCi6CWyrTrYTPTO2gbptyNZ3Gotrht8siKyfMA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Super-Modo     | .28      | 0xE528   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EnJs6YrYXPU4N_Jy-b-akME2MyisQbX-3E1iO2EVxZR0xDUQFTcTVs_Q8QHMR2EUwiBjoNMFOhCKmMd4xvxSpLo3MKNf5Wi1qnEi3zNgajOa9AvcoBYH59y8oDekakkWhv7HlygQ=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Store          | .29      | 0xE529   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HVab725FE3SiK0DSnC4exT-R1sFFztuSETfrTPWjxXmLbUEfDWLyiCbc6e2IpU_NJrD4fLv3MVP8xjecihQH6CB6j-FrrVYB4VSLXve3dYqqv5_deDZNtxyEQPtHR4EFdsWlJQqQ=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Rewards        | .2A      | 0xE52A   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17G3XBEEwt-PtFRUxAKJBYjNqIZyvIkwM8nb4qQq3_gjmmwDfMY6WUMhTLc5DO6jU1jB3fIui5IGCklekTv1QX797NyYOcuczfvW-iRwusTh5qn7VELnnouU_ocXVTYLpDhj_HIA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Keys           | .2B      | 0xE52B   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FmJra4wV4105KGUCjIzv9YbwFkWHoDSvtAhJl4MiqbAMHrLIWOcR8L-jahTQHp53_u7RQ_ZfXtskp9tSpmrgHTTnWWEr_WzvE_12seotY9wj4xdALoG41B1hsY2c3ycQFPbMXw-Q=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Ranks          | .2C      | 0xE52C   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FfV1iy3nVQTYaupDbHrZZPNakA3bZLI3d4ifqhDX5BkStn8hBf6V4uLaPDpjXu7XBrM2s9LQF4k-04ARadTO550Qtn3VYV3tNlA4Sdp3wzRjlfP2A9MV6pR-__YqkurGBz-Lxemg=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Moderateurs    | .2D      | 0xE52D   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EfPXBGvmeeEt8KSLrdcGgWa6CDFmLyAH1XoHtQgwG-nLCl873Sm4ECTDs4fh3XGTJTeLZ6fjCEfiK7Poaj_4JU2txPNZ7dM_O4YeKiOpvMJtCFEje7W4N4U6659mydw0PR8dMXAA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | « Clic Gauche »| .2E      | 0xE52E   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FhRvu4QfShK_UwHMeA5XMpVAYagGQxA916SuEbQ7apoIrU6BCWzc1YfKuI52N_diDwjt8eyUI-U5PGYOOddmjrfUkD4NxILfdRpDaBeXMQTQU2hzmEVsJ-7OLTnKr7eWbucvCKOw=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Voter          | .2F      | 0xE52F   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GgB14lzw7uAcK_7kfmfBlFSS4OEYeZn4Mv3V-UnvcRwkhazVwBtVZg8YXJpJBAYXCiQm-r-eiO_hlVzH0Un6oH3oZtMsZhFSN8wWRYekgRoi8IWknqnLYtFnfgprk7cND3D7MVyQ=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Builder        | .30      | 0xE530   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EEa8XgfZtUc25X107VpUQ7X-nsA2Z5PXCWrazh9eQfKYrB0g_92cKqeBrcMmmuTGG5r0AjRPP8drT_akU_7i583ZPg_w7FIsE55KHNZfO4W1Yz8rN9XrHQB36yMcTTGe7VAZO8nA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | « Maison »     | .31      | 0xE531   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17FX10yjNioxHj2QEcgSlBux7Ag1Zvu2g7qlfpN7fdzQA6Xki8BillBVjO2ifE3AI2k9x-zv6PxBtdaOxZgxyCmmsUo4MBMD2Eu6bdVtG8JQi7vc3FSKSmrq8bHq6XdJOT8Q7NqP0g=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | « Pioche »     | .32      | 0xE532   |       |
+| ![](https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EmVZdjab-JXdxRDARXEOf9x7nlHTkecPgVkhPytNXV0RPEd0WkPPEwBaKXZaYzpnmxti0UXmufA3S8fyn9ZZg0Ho5WiT36WgnW0T74PvXyeiepB_pRuwes3AWNLHNiN9FsEsvyxA=w91-h16?key=ylgC69U_wlRxn4QVlhrBxlxv)                                                              | Media          | .33      | 0xE533   |       |
 ---
